@@ -1,0 +1,1 @@
+export 'package:coba_http/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
